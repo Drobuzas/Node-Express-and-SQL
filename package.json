@@ -1,0 +1,26 @@
+{
+  "name": "node-express-and-sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drobuzas/Node-Express-and-SQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Drobuzas/Node-Express-and-SQL/issues"
+  },
+  "homepage": "https://github.com/Drobuzas/Node-Express-and-SQL#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
